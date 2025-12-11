@@ -83,9 +83,9 @@
 <h2 align="center">🐍 Contribution History</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -99,4 +99,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=dhruvjamwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhruv's Stats" />
       </td>
       <td>
-        <img src="
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjamwal&theme=tokyonight&hide_border=true" alt="Dhruv's Streak" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjamwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
