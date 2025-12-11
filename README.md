@@ -69,7 +69,7 @@
     <td width="50%">
       <h3 align="center">💻 Java x86_64 Compiler</h3>
       <p align="center">
-        Led development of a compiler using <b>Flex and Bison</b>. Implemented semantic analysis, lexer, parser, and 3-Address-Code (3AC) generation.
+        Development of a compiler using <b>Flex and Bison</b>. Implemented semantic analysis, lexer, parser, and 3-Address-Code (3AC) generation.
         <br/><br/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Compiler_Design-000000?style=flat-square" />
