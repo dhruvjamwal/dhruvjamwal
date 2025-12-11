@@ -82,7 +82,7 @@
 
 <h2 align="center">🐍 Contribution History</h2>
 <div align="center">
-  <img src="https://github.com/dhruvjamwal/dhruvjamwal/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+  <img src="https://github.com/dhruvjamwal/dhruvjamwal/blob/output/github-contribution-grid-snake.svg" alt="contribution" />
 </div>
 
 <hr/>
