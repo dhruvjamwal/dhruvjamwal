@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Dhruv+Jamwal;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Dhruv+Jamwal;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
@@ -82,11 +82,7 @@
 
 <h2 align="center">🐍 Contribution History</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
-    <img alt="contributions" src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github.com/dhruvjamwal/dhruvjamwal/blob/output/github-contribution-grid-snake.svg" alt="contribution" />
 </div>
 
 <hr/>
