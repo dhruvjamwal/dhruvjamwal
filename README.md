@@ -80,10 +80,9 @@
 
 <hr/>
 
-<h2 align="center">🐍 Contribution History</h2>
-<div align="center">
-  <img src="https://github.com/dhruvjamwal/dhruvjamwal/blob/output/github-contribution-grid-snake.svg" alt="contribution" />
-</div>
+## 🐍 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjamwal&theme=react-dark" />
 
 <hr/>
 
@@ -96,6 +95,9 @@
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjamwal&theme=tokyonight&hide_border=true" alt="Dhruv's Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjamwal&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
