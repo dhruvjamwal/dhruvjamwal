@@ -66,6 +66,23 @@
   </tr>
 </table>
 
+<div align="center">
+   <img alt="JavaScript" width="55" height="55" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
+   <img alt="React" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,vscode&theme=dark&perline=7" />
+  <img alt="Docker" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" />
+</div>
+
+<div align="center">
+  <a href="https://powerbi.microsoft.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
+  <a href="https://www.tableau.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau"/></a>
+  <a href="https://jupyter.org/"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter"/></a>
+  <a href="https://scikit-learn.org/"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit"/></a>
+  <a href="https://huggingface.co/"><img width="48" height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface"/></a>
+</div>
+
+<h2></h2>
+
 <br/>
 
 
