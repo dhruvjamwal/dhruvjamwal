@@ -30,9 +30,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-dhruvjamwal-blue?style=flat-square&logo=linkedin" />
-<img src="https://img.shields.io/badge/Gmail-contact-red?style=flat-square&logo=gmail" />
-<img src="https://img.shields.io/badge/GitHub-dhruvjamwal-black?style=flat-square&logo=github" />
+<a href="mailto:dhruvjamwal.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-contact-red?style=flat-square&logo=gmail" />
+</a>
+  
+<a href="https://github.com/dhruvjamwal">
+    <img src="https://img.shields.io/badge/GitHub-dhruvjamwal-black?style=flat-square&logo=github" />
+</a>
 
 </div>
 
