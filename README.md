@@ -79,6 +79,7 @@
   <a href="https://jupyter.org/"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter"/></a>
   <a href="https://scikit-learn.org/"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit"/></a>
   <a href="https://huggingface.co/"><img width="48" height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface"/></a>
+  <a href="https://www.java.com/"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java"/></a>
 </div>
 
 <h2></h2>
