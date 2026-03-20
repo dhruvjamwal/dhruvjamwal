@@ -30,6 +30,14 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/>
 </a>
 
+<a href="https://twitter.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Twitter-follow-1DA1F2?style=flat-square&logo=twitter" />
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-profile-orange?style=flat-square&logo=leetcode" />
+</a>
+
 </div>
 
 
