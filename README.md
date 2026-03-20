@@ -80,11 +80,17 @@
 
 <hr/>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Consistency-Matters-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code%20Daily-%F0%9F%94%A5-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Backend%20%7C%20ML-success?style=for-the-badge" />
 
 </div>
 
