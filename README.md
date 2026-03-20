@@ -27,9 +27,7 @@
 </a>
   
 <a href="https://github.com/dhruvjamwal">
-    <img src="https://img.shields.io/badge/GitHub-dhruvjamwal-black?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-
 </a>
 
 </div>
