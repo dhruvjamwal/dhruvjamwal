@@ -82,9 +82,11 @@
 
 ## 🐍 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjamwal&theme=react-dark" />
+<div align="center">
 
-<hr/>
+<img src="https://raw.githubusercontent.com/dhruvjamwal/dhruvjamwal/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
