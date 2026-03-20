@@ -26,6 +26,18 @@
   </a>
 </div>
 
+## <h2> 🥷 Let's Connect</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LinkedIn-dhruvjamwal-blue?style=flat-square&logo=linkedin" />
+<img src="https://img.shields.io/badge/Gmail-contact-red?style=flat-square&logo=gmail" />
+<img src="https://img.shields.io/badge/GitHub-dhruvjamwal-black?style=flat-square&logo=github" />
+
+</div>
+
+
+
 <hr/>
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
