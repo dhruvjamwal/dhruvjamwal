@@ -122,11 +122,21 @@
 
 </td>
 
-<td width="50%">
+## 🧠 Productivity Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjamwal&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
 
-</td>
+<!-- TOP METRICS -->
+<p>
+  <img src="https://img.shields.io/badge/Contributions-100%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-20%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" />
+</p>
+
+<!-- GRAPH (FULL WIDTH) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjamwal&theme=react-dark&hide_border=true&area=true&custom_title=Dhruv%20Jamwal%20Contribution%20Analytics" width="100%"/>
+
+</div>
 
 </tr>
 </table>
