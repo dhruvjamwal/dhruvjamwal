@@ -29,34 +29,11 @@
 <a href="https://github.com/dhruvjamwal">
     <img src="https://img.shields.io/badge/GitHub-dhruvjamwal-black?style=flat-square&logo=github" />
 </a>
-
-</div>
-
-
-## 🥷 Let's Connect
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's+Connect+🚀;Open+for+Collaborations;Backend+%7C+Systems+%7C+ML" />
-</p>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://github.com/dhruvjamwal">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
-
-
 
 
 <hr/>
@@ -86,6 +63,7 @@
 
 <br/>
 
+
 <h2 align="center"> ⚔️ Featured Engineering</h2>
 <table align="center" width="100%" style="border: none;">
   <tr>
@@ -114,7 +92,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡ </h2>
 <div align="center">
   <table style="border: none;">
     <tr>
@@ -133,7 +111,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjamwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-##  ⚔️ Productivity Stats
+##  <h2 align="center"> ⚔️ Productivity Stats </h2>
 
 <div align="center">
 
