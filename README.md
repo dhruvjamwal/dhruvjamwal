@@ -19,7 +19,6 @@
 
 
 ## <h2> 🥷 Let's Connect</h2>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=00F7FF&center=true&width=450&lines=Let's+Connect+🥷;Let's+Build+Something+Great;Always+Learning+Always+Building" />
 
 <div align="center">
 
@@ -32,6 +31,31 @@
 </a>
 
 </div>
+
+
+## 🥷 Let's Connect
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's+Connect+🚀;Open+for+Collaborations;Backend+%7C+Systems+%7C+ML" />
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/dhruvjamwal">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+
 
 
 
