@@ -102,3 +102,31 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjamwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+## 🧠 Productivity Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Dhruv Singh Jamwal
+
+- 🟠 **Contributions (2026):** 100+  
+- 📦 **Public Repos:** 20+  
+- ⏳ **GitHub Age:** 4+ years  
+- ⚡ **Focus:** Backend | Distributed Systems | ML  
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjamwal&theme=tokyo-night&hide_border=true&area=true" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
