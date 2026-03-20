@@ -108,7 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjamwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-##  ⚔️ Productivity Statistics
+##  ⚔️ Productivity Stats
 
 <div align="center">
 
@@ -125,7 +125,6 @@
 
 </td>
 
-##  ⚔️ Analytics
 
 <div align="center">
 
