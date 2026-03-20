@@ -19,6 +19,7 @@
 
 
 ## <h2> 🥷 Let's Connect</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=00F7FF&center=true&width=450&lines=Let's+Connect+🥷;Let's+Build+Something+Great;Always+Learning+Always+Building" />
 
 <div align="center">
 
