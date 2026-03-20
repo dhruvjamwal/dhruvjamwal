@@ -36,7 +36,7 @@
 
 <hr/>
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center"> ⚔️ Technical Arsenal</h2>
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center">💾 Featured Engineering</h2>
+<h2 align="center"> ⚔️ Featured Engineering</h2>
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="50%">
@@ -108,7 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjamwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-## 🧠 Productivity Statistics
+##  ⚔️ Productivity Statistics
 
 <div align="center">
 
@@ -125,7 +125,7 @@
 
 </td>
 
-## 🧠 Productivity Analytics
+##  ⚔️ Analytics
 
 <div align="center">
 
